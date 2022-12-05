@@ -68,3 +68,6 @@ Referer: https://servicewechat.com/wxff8cad2e9bf18719/4/page-frame.html
 3. 目前代码只能在成都区域工作，后期考虑可能增加选择区域的功能
 4. 同一个cookie和st可以多个程序使用，电脑配置高、带宽高的话，成功率高（限制了并发频率，不清楚是依据规则IP还是用户）
 
+### test
+
+using test
